@@ -39,5 +39,6 @@ public class QuantityMeasurementApp_UC10 {
         demonstrateEquality(w1, w2);
         demonstrateConversion(w1, WeightUnit_UC10.GRAM);
         demonstrateAddition(w1, w2, WeightUnit_UC10.KILOGRAM);
+
     }
 }
